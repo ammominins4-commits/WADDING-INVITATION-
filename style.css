@@ -1254,7 +1254,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .countdown-section {
   position: relative;
-  background: url('../images/videooo.mp') center center/cover fixed no-repeat;
+  background: url('videooo.mp4') center center/cover fixed no-repeat;
   color: #f2f0f0;
   padding: 90px 0;
   filter: brightness(2);
