@@ -31,7 +31,7 @@ const CONFIG = {
   whatsappNumber: "918955606092", // 89556 06092 with +91 India code
   
   // Background Audio Settings
-  audioFilePath: "audio/music.mp3",
+  audioFilePath: "WhatsApp Audio 2026-09-04 at 10.17.44 AM.mpeg",
   autoPlayMutedFallback: true
 };
 
