@@ -273,12 +273,12 @@ function initGalleryFilter() {
    8. LIGHTBOX MODAL & IMAGE VIEWER
    ========================================================================== */
 const galleryImages = [
-  { src: "images/gallery/scard.png", caption: "The Sacred Nikah • Signing the Nikahnama" },
-  { src: "images/gallery/ring.png", caption: "Rings of Eternity • Sacred Union" },
-  { src: "images/gallery/mahndi.png", caption: "Bridal Mehndi • Traditional Henna" },
-  { src: "images/gallery/seven hills.png", caption: "seven hilles  Marriage Garden,sirsi road • Jaipur, Rajasthan" },
-  { src: "images/gallery/grand.png", caption: "Grand Reception Stage • Golden Illumination" },
-  { src: "images/gallery/dawat.png", caption: "Dawat-e-Walima • Royal Feast & Celebrations" }
+  { src: "scard.png", caption: "The Sacred Nikah • Signing the Nikahnama" },
+  { src: "ring.png", caption: "Rings of Eternity • Sacred Union" },
+  { src: "Mahndi.png", caption: "Bridal Mehndi • Traditional Henna" },
+  { src: "seven hills.png", caption: "seven hilles  Marriage Garden,sirsi road • Jaipur, Rajasthan" },
+  { src: "grand.png", caption: "Grand Reception Stage • Golden Illumination" },
+  { src: "dawat.png", caption: "Dawat-e-Walima • Royal Feast & Celebrations" }
 ];
 
 let currentLightboxIndex = 0;
