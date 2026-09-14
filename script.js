@@ -2,7 +2,7 @@
  * ============================================================================
  * PREMIUM ISLAMIC LUXURY WEDDING INVITATION SCRIPT
  * Groom: Aleena & Bride
- * Date: Wednesday, 14 November 2026 • 7:00 PM IST
+ * Date: Saturday, 14 November 2026 • 7:00 PM IST
  * Venue: Seven hilles,sirsi road,kanakpura Marriage Garden, Jaipur, Rajasthan
  * WhatsApp RSVP Line: +91 89556 06092 (8955606092)
  * ============================================================================
@@ -17,7 +17,7 @@ const CONFIG = {
   
   // Wedding Date & Time (ISO format with Indian Standard Time UTC+05:30)
   weddingDateISO: "2026-11-21T19:00:00+05:30",
-  weddingDateDisplay: "Wednesday, 14 November 2026",
+  weddingDateDisplay: "Saturday, 14 November 2026",
   weddingTimeDisplay: "7:00 PM Onwards",
   
   // Venue Information
