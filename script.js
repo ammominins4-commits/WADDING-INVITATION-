@@ -276,7 +276,7 @@ const galleryImages = [
   { src: "scard.png", caption: "The Sacred Nikah • Signing the Nikahnama" },
   { src: "ring.png", caption: "Rings of Eternity • Sacred Union" },
   { src: "Mahndi.png", caption: "Bridal Mehndi • Traditional Henna" },
-  { src: "seven hills.png", caption: "seven hilles  Marriage Garden,sirsi road • Jaipur, Rajasthan" },
+  { src: "seven hills.png", caption: "Balaji seven hilles  Marriage Garden,sirsi road • Jaipur, Rajasthan" },
   { src: "grand.png", caption: "Grand Reception Stage • Golden Illumination" },
   { src: "dawat.png", caption: "Dawat-e-Walima • Royal Feast & Celebrations" }
 ];
